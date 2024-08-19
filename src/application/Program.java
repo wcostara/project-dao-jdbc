@@ -2,10 +2,8 @@ package application;
 
 import model_dao.DaoFactory;
 import model_dao.SellerDao;
-import model_entities.Departament;
 import model_entities.Seller;
 
-import java.util.Date;
 import java.util.Locale;
 
 public class Program {
